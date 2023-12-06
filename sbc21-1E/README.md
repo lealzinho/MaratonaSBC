@@ -1,7 +1,6 @@
-<h1 align="center">Resolução 1a Fase Maratona SBC 2021</h1>
-###
-<h3 align="center">[Problema E](https://maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf#page=8)</h3>
-<h2 align="center">Escada Rolante</h2>
+<h1 align="center">Escada Rolante</h1>
+
+[Problema E](https://maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf#page=8)
 
 **Como compilar e funcionamento do programa:**
 
