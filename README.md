@@ -4,7 +4,7 @@ Resolução dos exercícios propostos pelas edições da Maratona de Programaç�
 
 ## 2021
 > Clique no balão para ver resolução
- - [Primeira Fase](maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf)
+ - [Primeira Fase](https://maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf)
    - [A](maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf#page=2)locação de Prêmios
    - [B](maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf#page=3)elas Palavras
    - [C](maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf#page=4)riando Multiplos
