@@ -9,7 +9,7 @@ Resolução dos exercícios propostos pelas edições da Maratona de Programaç�
    - [B](maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf#page=3)elas Palavras
    - [C](maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf#page=4)riando Multiplos
    - [D](maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf#page=6)ividindo o Reino
-   - [E](maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf#page=8)scada Rolante [:balloon:](google.com)
+   - [E](maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf#page=8)scada Rolante [:balloon:](sbc21-1E)
    - [F](maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf#page=10)uga da Prisão
    - [G](maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf#page=13)arantindo o Treino
    - [H](maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf#page=14)aja Ordenação
